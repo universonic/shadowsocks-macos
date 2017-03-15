@@ -1,0 +1,57 @@
+/*
+ * SHARED STRINGS
+ */
+
+/*
+ * ./PACUtils.swift
+ */
+
+"PAC has been updated by latest GFW List." = "PAC が既に GFW の最新リストで更新されました。";
+
+"Failed to download latest GFW List." = "GFW の最新リストのダウンロードが失敗しました";
+
+/*
+ * ./PreferencesWindowController.swift
+ */
+
+"New Server" = "新しいサーバー";
+
+/*
+ * ./AppDelegate.swift
+ */
+
+"Add Shadowsocks Server Profile" = "Shadowsocks サーバーのプロファイルを追加";
+
+"By scan QR Code" = "QR コードのスキャンで";
+
+"By Handle SS URL" = "SS URL のハンドルで";
+
+" Encription Method: \(profile.method)" = " 暗号化メソッド: \(profile.method)";
+
+"Current server profile is not valid." = "現サーバーのプロファイルが有効ではありません。";
+
+"No current server profile." = "現サーバーのプロファイルが存在しません";
+
+"Shadowsocks: On" = "Shadowsocks: 入";
+
+"Turn Shadowsocks Off" = "Shadowsocks を無効にする";
+
+"Shadowsocks: Off" = "Shadowsocks: 切";
+
+"Turn Shadowsocks On" = "Shadowsocks を有効にする";
+
+"Proxy - Auto By PAC" = "プロキシ - PAC で自動（⌃⌘P）";
+
+"Proxy - Global" = "プロキシ - グローバル（⌃⌘P）";
+
+"Proxy - Manual" = "プロキシ - 手動";
+
+"Servers" = "サーバー";
+
+"Auto" = "自動";
+
+"Global" = "グローバル";
+
+"Manual" = "手動";
+
+"Show Running Mode On Status Bar" = "実行モードをメニューバーで表示する";

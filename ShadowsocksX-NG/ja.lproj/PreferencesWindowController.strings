@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "COZ-Qr-bmU"; */
+"COZ-Qr-bmU.title" = "テキスト";
+
+/* Class = "NSWindow"; title = "Server Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "サーバーの環境設定";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Gqv-5O-Wwf"; */
+"Gqv-5O-Wwf.title" = "ボックス";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Ibr-Gs-5Js"; */
+"Ibr-Gs-5Js.title" = ":";
+
+/* Class = "NSTextFieldCell"; title = "Remarks:"; ObjectID = "MiN-VE-FtC"; */
+"MiN-VE-FtC.title" = "リマーク:";
+
+/* Class = "NSButtonCell"; title = "Enable OTA"; ObjectID = "hRZ-Rp-I5e"; */
+"hRZ-Rp-I5e.title" = "OTA を有効";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "j03-9E-uHW"; */
+"j03-9E-uHW.title" = "取り消し";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "kil-xC-HPD"; */
+"kil-xC-HPD.title" = "パスワード:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "mOh-nD-7EX"; */
+"mOh-nD-7EX.title" = "暗号化:";
+
+/* Class = "NSButtonCell"; title = "Copy URL to Clipboard"; ObjectID = "t3T-Kd-5La"; */
+"t3T-Kd-5La.title" = "URL をクリップボードにコピーする";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "yHs-XE-XEB"; */
+"yHs-XE-XEB.title" = "アドレス:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zPE-oD-PwK"; */
+"zPE-oD-PwK.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "bl9-lq-u9V"; */
+"bl9-lq-u9V.title" = "コピー";
+

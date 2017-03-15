@@ -1,0 +1,16 @@
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Port:"; ObjectID = "2Sd-yn-gdY"; */
+"2Sd-yn-gdY.title" = "HTTP プロキシの待ち受けポート:";
+
+/* Class = "NSButtonCell"; title = "HTTP Proxy Enable"; ObjectID = "dqU-MG-Sum"; */
+"dqU-MG-Sum.title" = "HTTP プロキシの有効";
+
+/* Class = "NSButtonCell"; title = "Follow Global Mode"; ObjectID = "ofk-Pc-c8f"; */
+"ofk-Pc-c8f.title" = "グローバルモードに従う";
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Address:"; ObjectID = "qd0-kc-ttB"; */
+"qd0-kc-ttB.title" = "HTTP プロキシの待ち受けアドレス:";
+
+/* Class = "NSWindow"; title = "HTTP Proxy Preferences"; ObjectID = "vS3-DL-Nq3"; */
+"vS3-DL-Nq3.title" = "HTTP プロキシの環境設定";
+

@@ -1,0 +1,102 @@
+
+/* Class = "NSMenuItem"; title = "Export All Server To Json..."; ObjectID = "6k0-gn-DQv"; */
+"6k0-gn-DQv.title" = "Export All Server To Json...";
+
+/* Class = "NSMenuItem"; title = "Manual Mode"; ObjectID = "8PR-gs-c5N"; */
+"8PR-gs-c5N.title" = "Manual Mode";
+
+/* Class = "NSMenu"; title = "Servers"; ObjectID = "9Y1-db-3HK"; */
+"9Y1-db-3HK.title" = "Servers";
+
+/* Class = "NSMenuItem"; title = "Show Running Mode In Status Bar"; ObjectID = "CCV-hX-fVA"; */
+"CCV-hX-fVA.title" = "Show Running Mode In Status Bar";
+
+/* Class = "NSMenuItem"; title = "Turn ShadowsocksX On"; ObjectID = "GSu-Tf-StS"; */
+"GSu-Tf-StS.title" = "Turn Shadowsocks On";
+
+/* Class = "NSMenu"; title = "ShadowsocksX-NG"; ObjectID = "Hob-KD-bx9"; */
+"Hob-KD-bx9.title" = "ShadowsocksX-NG";
+
+/* Class = "NSMenuItem"; title = "Show Logs..."; ObjectID = "Jfy-sf-Fhl"; */
+"Jfy-sf-Fhl.title" = "Show Logs...";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "LgB-6g-Gba"; */
+"LgB-6g-Gba.title" = "About";
+
+/* Class = "NSMenuItem"; title = "Server Preferences..."; ObjectID = "M5r-E7-44f"; */
+"M5r-E7-44f.title" = "Server Preferences...";
+
+/* Class = "NSMenuItem"; title = "Global Mode"; ObjectID = "Mw3-Jm-eXA"; */
+"Mw3-Jm-eXA.title" = "Global Mode";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QWV-F6-ac1"; */
+"QWV-F6-ac1.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Scan QR Code From Screen ..."; ObjectID = "Qe6-bF-paT"; */
+"Qe6-bF-paT.title" = "Scan QR Code From Screen ...";
+
+/* Class = "NSMenuItem"; title = "Show QR Code For Current Server..."; ObjectID = "R6A-96-Zcb"; */
+"R6A-96-Zcb.title" = "Show QR Code For Current Server...";
+
+/* Class = "NSMenuItem"; title = "Import Bunch Json File..."; ObjectID = "T9g-gy-gvv"; */
+"T9g-gy-gvv.title" = "Import Bunch Json File...";
+
+/* Class = "NSMenuItem"; title = "Update PAC from GFW List"; ObjectID = "TFc-Ec-duM"; */
+"TFc-Ec-duM.title" = "Update PAC from GFW List";
+
+/* Class = "NSMenuItem"; title = "Feedback"; ObjectID = "W7u-7g-Gv4"; */
+"W7u-7g-Gv4.title" = "Feedback";
+
+/* Class = "NSMenuItem"; title = "Advanced Preferences ..."; ObjectID = "bZ3-fy-34d"; */
+"bZ3-fy-34d.title" = "Advanced Preferences ...";
+
+/* Class = "NSMenuItem"; title = "Launch At Login"; ObjectID = "eUq-p7-ICK"; */
+"eUq-p7-ICK.title" = "Launch At Login";
+
+/* Class = "NSMenuItem"; title = "Switch By ⌃ + ⌘ + P"; ObjectID = "f0u-mr-pez"; */
+"f0u-mr-pez.title" = "Switch By ⌃ + ⌘ + P";
+
+/* Class = "NSMenuItem"; title = "Showsocks: On"; ObjectID = "fzk-mE-CEV"; */
+"fzk-mE-CEV.title" = "Showsocks: On";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "iVn-LD-Ynd"; */
+"iVn-LD-Ynd.title" = "Preferences";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "jcH-j9-Xl3"; */
+"jcH-j9-Xl3.title" = "Label";
+
+/* Class = "NSMenu"; title = "Preferences"; ObjectID = "kXL-sZ-jT9"; */
+"kXL-sZ-jT9.title" = "Preferences";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "lay-XB-0oV"; */
+"lay-XB-0oV.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Copy HTTP Proxy Shell Export Line"; ObjectID = "lg6-To-GZA"; */
+"lg6-To-GZA.title" = "Copy HTTP Proxy Shell Export Line";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "m00-ru-6Po"; */
+"m00-ru-6Po.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "oR3-cT-RTC"; */
+"oR3-cT-RTC.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Show Bunch Json Example File..."; ObjectID = "pdy-JE-50Q"; */
+"pdy-JE-50Q.title" = "Show Bunch Json Example File...";
+
+/* Class = "NSMenuItem"; title = "Auto Mode By PAC"; ObjectID = "r07-Gu-aEz"; */
+"r07-Gu-aEz.title" = "Auto Mode By PAC";
+
+/* Class = "NSMenuItem"; title = "Edit User Rules For PAC..."; ObjectID = "rms-p0-CvB"; */
+"rms-p0-CvB.title" = "Edit User Rules For PAC...";
+
+/* Class = "NSMenuItem"; title = "Advanced PAC Proxy Preferences..."; ObjectID = "sbx-yz-3lO"; */
+"sbx-yz-3lO.title" = "Advanced PAC Proxy Preferences...";
+
+/* Class = "NSMenuItem"; title = "Servers"; ObjectID = "u5M-hQ-VSc"; */
+"u5M-hQ-VSc.title" = "Servers";
+
+/* Class = "NSMenuItem"; title = "HTTP Proxy Preferences ..."; ObjectID = "uEp-Gz-cu0"; */
+"uEp-Gz-cu0.title" = "HTTP Proxy Preferences ...";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "vJS-JW-byz"; */
+"vJS-JW-byz.title" = "Quit";

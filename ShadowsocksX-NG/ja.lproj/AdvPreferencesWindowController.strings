@@ -1,0 +1,39 @@
+
+/* Class = "NSButtonCell"; title = "Enable Udp Replay"; ObjectID = "1C3-4s-Apd"; */
+"1C3-4s-Apd.title" = "UDP リプレイを有効";
+
+/* Class = "NSTextFieldCell"; title = "Don't change these preferences if you have no idea what they are."; ObjectID = "8wL-qv-5nD"; */
+"8wL-qv-5nD.title" = "設定の意味をわからない場合、変更しないでください。";
+
+/* Class = "NSTextFieldCell"; title = "Local Kcptun Listen Address:"; ObjectID = "DZS-7O-reK"; */
+"DZS-7O-reK.title" = "ローカルの KCPTUN 待ち受けアドレス:";
+
+/* Class = "NSTextFieldCell"; title = "Local PAC Listen Port:"; ObjectID = "DiO-6B-ALO"; */
+"DiO-6B-ALO.title" = "Local PAC Listen Port:";
+
+/* Class = "NSWindow"; title = "Advanced Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "詳細設定";
+
+/* Class = "NSTextFieldCell"; title = "Seconds"; ObjectID = "Gd3-Fm-sWh"; */
+"Gd3-Fm-sWh.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "ローカルの Socks5 待ち受けアドレス:"; ObjectID = "cwr-n0-zwn"; */
+"cwr-n0-zwn.title" = "ローカルの Socks5 待ち受けアドレス:";
+
+/* Class = "NSButtonCell"; title = "Enable Verbose Mode"; ObjectID = "dCD-gg-I2i"; */
+"dCD-gg-I2i.title" = "詳細モードを有効";
+
+/* Class = "NSTextFieldCell"; title = "GFW List URL:"; ObjectID = "dg0-gS-z5V"; */
+"dg0-gS-z5V.title" = "GFW LIST URL:";
+
+/* Class = "NSTextFieldCell"; title = "Num of Kcptun connections:"; ObjectID = "hTG-Za-OhM"; */
+"hTG-Za-OhM.title" = "KCPTUN 接続数:";
+
+/* Class = "NSTextFieldCell"; title = "Timeout:"; ObjectID = "i4l-2S-gOQ"; */
+"i4l-2S-gOQ.title" = "タイムアウト:";
+
+/* Class = "NSTextFieldCell"; title = "Local Kcptun Listen Port:"; ObjectID = "lsO-IF-yJ9"; */
+"lsO-IF-yJ9.title" = "ローカルの KCPTUN 待ち受けポート:";
+
+/* Class = "NSTextFieldCell"; title = "ローカルの Socks5 待ち受けポート:"; ObjectID = "qRs-ow-vVB"; */
+"qRs-ow-vVB.title" = "ローカルの Socks5 待ち受けポート:";

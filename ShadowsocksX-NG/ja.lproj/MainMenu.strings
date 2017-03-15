@@ -1,0 +1,102 @@
+
+/* Class = "NSMenuItem"; title = "Export All Server To Json..."; ObjectID = "6k0-gn-DQv"; */
+"6k0-gn-DQv.title" = "全てのサーバーを JSON にエクスポートする...";
+
+/* Class = "NSMenuItem"; title = "Manual Mode"; ObjectID = "8PR-gs-c5N"; */
+"8PR-gs-c5N.title" = "手動モード";
+
+/* Class = "NSMenu"; title = "Servers"; ObjectID = "9Y1-db-3HK"; */
+"9Y1-db-3HK.title" = "サーバー";
+
+/* Class = "NSMenuItem"; title = "Show Running Mode In Status Bar"; ObjectID = "CCV-hX-fVA"; */
+"CCV-hX-fVA.title" = "実行モードをステータスバーに表示する";
+
+/* Class = "NSMenuItem"; title = "Turn ShadowsocksX On"; ObjectID = "GSu-Tf-StS"; */
+"GSu-Tf-StS.title" = "Shadowsocks を有効";
+
+/* Class = "NSMenu"; title = "ShadowsocksX-NG"; ObjectID = "Hob-KD-bx9"; */
+"Hob-KD-bx9.title" = "ShadowsocksX";
+
+/* Class = "NSMenuItem"; title = "Show Logs..."; ObjectID = "Jfy-sf-Fhl"; */
+"Jfy-sf-Fhl.title" = "ログを表示...";
+
+/* Class = "NSMenuItem"; title = "About"; ObjectID = "LgB-6g-Gba"; */
+"LgB-6g-Gba.title" = "ShadowsocksX について";
+
+/* Class = "NSMenuItem"; title = "Server Preferences..."; ObjectID = "M5r-E7-44f"; */
+"M5r-E7-44f.title" = "サーバー構成...";
+
+/* Class = "NSMenuItem"; title = "Global Mode"; ObjectID = "Mw3-Jm-eXA"; */
+"Mw3-Jm-eXA.title" = "グローバルモード";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QWV-F6-ac1"; */
+"QWV-F6-ac1.title" = "窓";
+
+/* Class = "NSMenuItem"; title = "Scan QR Code From Screen..."; ObjectID = "Qe6-bF-paT"; */
+"Qe6-bF-paT.title" = "QR コードをスクリーンからスキャン...";
+
+/* Class = "NSMenuItem"; title = "Show QR Code For Current Server..."; ObjectID = "R6A-96-Zcb"; */
+"R6A-96-Zcb.title" = "現サーバーの QR コードを表示する...";
+
+/* Class = "NSMenuItem"; title = "Import Bunch Json File..."; ObjectID = "T9g-gy-gvv"; */
+"T9g-gy-gvv.title" = "Bun	ch JSON ファイルをインポート...";
+
+/* Class = "NSMenuItem"; title = "Update PAC from GFW List"; ObjectID = "TFc-Ec-duM"; */
+"TFc-Ec-duM.title" = "GFW リストから PAC を更新";
+
+/* Class = "NSMenuItem"; title = "Feedback"; ObjectID = "W7u-7g-Gv4"; */
+"W7u-7g-Gv4.title" = "フィードバック";
+
+/* Class = "NSMenuItem"; title = "Advanced Preferences..."; ObjectID = "bZ3-fy-34d"; */
+"bZ3-fy-34d.title" = "詳細設定...";
+
+/* Class = "NSMenuItem"; title = "Launch At Login"; ObjectID = "eUq-p7-ICK"; */
+"eUq-p7-ICK.title" = "ログインするとき開く";
+
+/* Class = "NSMenuItem"; title = "Switch By ⌃ + ⌘ + P"; ObjectID = "f0u-mr-pez"; */
+"f0u-mr-pez.title" = "⌃ + ⌘ + P で切り替え";
+
+/* Class = "NSMenuItem"; title = "Showsocks: On"; ObjectID = "fzk-mE-CEV"; */
+"fzk-mE-CEV.title" = "Showsocks: 入";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "iVn-LD-Ynd"; */
+"iVn-LD-Ynd.title" = "環境設定";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "jcH-j9-Xl3"; */
+"jcH-j9-Xl3.title" = "ラベル";
+
+/* Class = "NSMenu"; title = "Preferences"; ObjectID = "kXL-sZ-jT9"; */
+"kXL-sZ-jT9.title" = "環境設定";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "lay-XB-0oV"; */
+"lay-XB-0oV.title" = "項目 2";
+
+/* Class = "NSMenuItem"; title = "Copy HTTP Proxy Shell Export Line"; ObjectID = "lg6-To-GZA"; */
+"lg6-To-GZA.title" = "HTTP プロキシ SHELL エクスポートラインをコピー";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "m00-ru-6Po"; */
+"m00-ru-6Po.title" = "項目 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "oR3-cT-RTC"; */
+"oR3-cT-RTC.title" = "項目 1";
+
+/* Class = "NSMenuItem"; title = "Show Bunch Json Example File..."; ObjectID = "pdy-JE-50Q"; */
+"pdy-JE-50Q.title" = "JSON サンプルを表示する...";
+
+/* Class = "NSMenuItem"; title = "Auto Mode By PAC"; ObjectID = "r07-Gu-aEz"; */
+"r07-Gu-aEz.title" = "PAC 自動モード";
+
+/* Class = "NSMenuItem"; title = "Edit User Rules For PAC..."; ObjectID = "rms-p0-CvB"; */
+"rms-p0-CvB.title" = "PAC ルールのカスタマイズ...";
+
+/* Class = "NSMenuItem"; title = "Advanced PAC Proxy Preferences..."; ObjectID = "sbx-yz-3lO"; */
+"sbx-yz-3lO.title" = "PAC プロキシの環境設定...";
+
+/* Class = "NSMenuItem"; title = "Servers"; ObjectID = "u5M-hQ-VSc"; */
+"u5M-hQ-VSc.title" = "サーバー";
+
+/* Class = "NSMenuItem"; title = "HTTP Proxy Preferences..."; ObjectID = "uEp-Gz-cu0"; */
+"uEp-Gz-cu0.title" = "HTTP プロキシの環境設定...";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "vJS-JW-byz"; */
+"vJS-JW-byz.title" = "終了";
