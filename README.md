@@ -1,10 +1,14 @@
-# ShadowsocksX-NG
+# Shadowsocks-macos
 
 Current version is 1.4
 
+Based on ShadowsocksX-NG
+
 [![Build Status](https://travis-ci.org/shadowsocks/ShadowsocksX-NG.svg?branch=develop)](https://travis-ci.org/shadowsocks/ShadowsocksX-NG)
 
-Next Generation of [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS)
+## Difference with original version
+
+Bug fixes, Japanese support and others.
 
 ## Why?
 
@@ -29,7 +33,7 @@ Then I will rewrite the GUI code in Swift.
 
 ## Download
 
-From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
+From [here](https://github.com/universonic/shadowsocks-macos/releases/)
 
 ## Features
 
