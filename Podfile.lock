@@ -17,6 +17,15 @@ DEPENDENCIES:
   - RxCocoa (~> 4.1.2)
   - RxSwift (~> 4.1.2)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BRLOptionParser
+    - GCDWebServer
+    - MASShortcut
+    - RxCocoa
+    - RxSwift
+
 SPEC CHECKSUMS:
   Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
   BRLOptionParser: a03256a8ff003ca1f5376c55f55f210e085a3958
@@ -25,6 +34,6 @@ SPEC CHECKSUMS:
   RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
   RxSwift: e49536837d9901277638493ea537394d4b55f570
 
-PODFILE CHECKSUM: 00940d7054f9c0a5f67a7f3be8edb28676d11545
+PODFILE CHECKSUM: 7ad6799dbc4a947b7c833fcb0969966f82643af5
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.7.1

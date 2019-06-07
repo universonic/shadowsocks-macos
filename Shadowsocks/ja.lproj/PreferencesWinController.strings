@@ -1,0 +1,96 @@
+
+/* Class = "NSTextFieldCell"; title = "Seconds"; ObjectID = "4R2-UO-qs7"; */
+"4R2-UO-qs7.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Address:"; ObjectID = "6W4-TY-Bw5"; */
+"6W4-TY-Bw5.title" = "HTTP プロキシの待機アドレス:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "8Ku-VV-ZaY"; */
+"8Ku-VV-ZaY.title" = "チェック";
+
+/* Class = "NSTextFieldCell"; title = "Local Socks5 Listen Port:"; ObjectID = "8fk-fw-Tsx"; */
+"8fk-fw-Tsx.title" = "ローカル Socks5 の待機ポート:";
+
+/* Class = "NSTextFieldCell"; title = "Toggle Shadowsocks On/Off:"; ObjectID = "95S-ma-8Q7"; */
+"95S-ma-8Q7.title" = "Shadowsocks のオン/オフを切り替える:";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "Afd-bH-wOk"; */
+"Afd-bH-wOk.title" = "リセット";
+
+/* Class = "NSTextFieldCell"; title = "Switch proxy mode:"; ObjectID = "BaL-cn-m8v"; */
+"BaL-cn-m8v.title" = "プロキシモードを切り替える:";
+
+/* Class = "NSToolbarItem"; label = "Interfaces"; ObjectID = "Bdm-pj-Ckd"; */
+"Bdm-pj-Ckd.label" = "インタフェース";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Interfaces"; ObjectID = "Bdm-pj-Ckd"; */
+"Bdm-pj-Ckd.paletteLabel" = "インタフェース";
+
+/* Class = "NSToolbarItem"; label = "HTTP"; ObjectID = "D0F-6S-Ztu"; */
+"D0F-6S-Ztu.label" = "HTTP";
+
+/* Class = "NSToolbarItem"; paletteLabel = "HTTP"; ObjectID = "D0F-6S-Ztu"; */
+"D0F-6S-Ztu.paletteLabel" = "HTTP";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "設定";
+
+/* Class = "NSTabViewItem"; label = "HTTP"; ObjectID = "F5Q-Ce-JJN"; */
+"F5Q-Ce-JJN.label" = "HTTP";
+
+/* Class = "NSTextFieldCell"; title = "Local PAC Server Listen Port:"; ObjectID = "IMQ-c4-gmc"; */
+"IMQ-c4-gmc.title" = "ローカル PAC サーバーの待機ポート:";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "Mp8-cF-kQ7"; */
+"Mp8-cF-kQ7.label" = "全般";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "Mp8-cF-kQ7"; */
+"Mp8-cF-kQ7.paletteLabel" = "全般";
+
+/* Class = "NSButtonCell"; title = "Enable UDP Relay"; ObjectID = "R3v-iN-zu8"; */
+"R3v-iN-zu8.title" = "UDP リレーを有効にする";
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Port:"; ObjectID = "Ww9-j9-WYR"; */
+"Ww9-j9-WYR.title" = "HTTP プロキシの待機ポート:";
+
+/* Class = "NSButtonCell"; title = "Launch At Login"; ObjectID = "XJx-j4-bBr"; */
+"XJx-j4-bBr.title" = "ログイン時に起動";
+
+/* Class = "NSButtonCell"; title = "Auto Configure"; ObjectID = "bu3-s5-bYM"; */
+"bu3-s5-bYM.title" = "自動設定";
+
+/* Class = "NSButtonCell"; title = "Enable Verbose Mode"; ObjectID = "cIS-Wb-Rzg"; */
+"cIS-Wb-Rzg.title" = "詳細表示モードを有効にする";
+
+/* Class = "NSTabViewItem"; label = "Interfaces"; ObjectID = "eDR-CZ-P4p"; */
+"eDR-CZ-P4p.label" = "インタフェース";
+
+/* Class = "NSTextFieldCell"; title = "Local Socks5 Listen Address:"; ObjectID = "jkc-e3-4O0"; */
+"jkc-e3-4O0.title" = "ローカル Socks5 の待機アドレス:";
+
+/* Class = "NSButtonCell"; title = "HTTP Proxy Enable"; ObjectID = "jr6-x7-WJD"; */
+"jr6-x7-WJD.title" = "HTTP プロキシの有効";
+
+/* Class = "NSTabViewItem"; label = "Advance"; ObjectID = "ksf-9b-qoz"; */
+"ksf-9b-qoz.label" = "Advance";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "kuN-wm-bl5"; */
+"kuN-wm-bl5.label" = "高度な設定";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "kuN-wm-bl5"; */
+"kuN-wm-bl5.paletteLabel" = "高度な設定";
+
+/* Class = "NSTextFieldCell"; title = "Timeout:"; ObjectID = "sQ9-bj-V0I"; */
+"sQ9-bj-V0I.title" = "タイムアウト:";
+
+/* Class = "NSTextFieldCell"; title = "Which network interfaces proxy setting would be controlled by Shadowsocks"; ObjectID = "t0I-6n-gnu"; */
+"t0I-6n-gnu.title" = "Shadowsocks によって制御されるネットワークインターフェースのプロキシ設定";
+
+/* Class = "NSTextFieldCell"; title = "Bypass proxy settings for these Hosts & Domains:"; ObjectID = "v4F-L4-s8U"; */
+"v4F-L4-s8U.title" = "これらのホストとドメインに対するプロキシのバイパス設定:";
+
+/* Class = "NSTextFieldCell"; title = "GFW List URL:"; ObjectID = "v7a-wf-aEm"; */
+"v7a-wf-aEm.title" = "GFW リスト URL:";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "xbG-eW-Prj"; */
+"xbG-eW-Prj.label" = "全般";

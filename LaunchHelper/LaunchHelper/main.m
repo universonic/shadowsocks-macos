@@ -3,7 +3,7 @@
 //  LaunchHelper
 //
 //  Created by 邱宇舟 on 2017/3/28.
-//  Copyright © 2017年 qiuyuzhou. All rights reserved.
+//  Copyright 2019 Shadowsocks Community. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

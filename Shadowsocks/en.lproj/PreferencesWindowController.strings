@@ -1,0 +1,51 @@
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "COZ-Qr-bmU"; */
+"COZ-Qr-bmU.title" = "Text";
+
+/* Class = "NSWindow"; title = "Server Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Server Preferences";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Gqv-5O-Wwf"; */
+"Gqv-5O-Wwf.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Ibr-Gs-5Js"; */
+"Ibr-Gs-5Js.title" = ":";
+
+/* Class = "NSTextFieldCell"; placeholderString = "IP"; ObjectID = "MWO-hQ-nMt"; */
+"MWO-hQ-nMt.placeholderString" = "IP";
+
+/* Class = "NSTextFieldCell"; title = "Remarks:"; ObjectID = "MiN-VE-FtC"; */
+"MiN-VE-FtC.title" = "Remarks:";
+
+/* Class = "NSTabViewItem"; label = "Insecure"; ObjectID = "SYv-Tn-tur"; */
+"SYv-Tn-tur.label" = "Insecure";
+
+/* Class = "NSTabViewItem"; label = "Secure"; ObjectID = "aRD-sh-uEl"; */
+"aRD-sh-uEl.label" = "Secure";
+
+/* Class = "NSMenuItem"; title = "Clone"; ObjectID = "bl9-lq-u9V"; */
+"bl9-lq-u9V.title" = "Clone";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Port"; ObjectID = "e1F-jd-e0J"; */
+"e1F-jd-e0J.placeholderString" = "Port";
+
+/* Class = "NSTextFieldCell"; title = "Plugin:"; ObjectID = "gDt-yZ-Mqs"; */
+"gDt-yZ-Mqs.title" = "Plugin:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "j03-9E-uHW"; */
+"j03-9E-uHW.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "kil-xC-HPD"; */
+"kil-xC-HPD.title" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "mOh-nD-7EX"; */
+"mOh-nD-7EX.title" = "Encryption:";
+
+/* Class = "NSTextFieldCell"; title = "Plugin Opts:"; ObjectID = "orT-7j-dxE"; */
+"orT-7j-dxE.title" = "Plugin Opts:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "yHs-XE-XEB"; */
+"yHs-XE-XEB.title" = "Address:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zPE-oD-PwK"; */
+"zPE-oD-PwK.title" = "OK";

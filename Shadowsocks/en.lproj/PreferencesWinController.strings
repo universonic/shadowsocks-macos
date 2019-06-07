@@ -1,0 +1,96 @@
+
+/* Class = "NSTextFieldCell"; title = "Seconds"; ObjectID = "4R2-UO-qs7"; */
+"4R2-UO-qs7.title" = "Seconds";
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Address:"; ObjectID = "6W4-TY-Bw5"; */
+"6W4-TY-Bw5.title" = "HTTP Proxy Listen Address:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "8Ku-VV-ZaY"; */
+"8Ku-VV-ZaY.title" = "Check";
+
+/* Class = "NSTextFieldCell"; title = "Local Socks5 Listen Port:"; ObjectID = "8fk-fw-Tsx"; */
+"8fk-fw-Tsx.title" = "Local Socks5 Listen Port:";
+
+/* Class = "NSTextFieldCell"; title = "Toggle Shadowsocks On/Off:"; ObjectID = "95S-ma-8Q7"; */
+"95S-ma-8Q7.title" = "Toggle Shadowsocks On/Off:";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "Afd-bH-wOk"; */
+"Afd-bH-wOk.title" = "Reset";
+
+/* Class = "NSTextFieldCell"; title = "Switch proxy mode:"; ObjectID = "BaL-cn-m8v"; */
+"BaL-cn-m8v.title" = "Switch proxy mode:";
+
+/* Class = "NSToolbarItem"; label = "Interfaces"; ObjectID = "Bdm-pj-Ckd"; */
+"Bdm-pj-Ckd.label" = "Interfaces";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Interfaces"; ObjectID = "Bdm-pj-Ckd"; */
+"Bdm-pj-Ckd.paletteLabel" = "Interfaces";
+
+/* Class = "NSToolbarItem"; label = "HTTP"; ObjectID = "D0F-6S-Ztu"; */
+"D0F-6S-Ztu.label" = "HTTP";
+
+/* Class = "NSToolbarItem"; paletteLabel = "HTTP"; ObjectID = "D0F-6S-Ztu"; */
+"D0F-6S-Ztu.paletteLabel" = "HTTP";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Preferences";
+
+/* Class = "NSTabViewItem"; label = "HTTP"; ObjectID = "F5Q-Ce-JJN"; */
+"F5Q-Ce-JJN.label" = "HTTP";
+
+/* Class = "NSTextFieldCell"; title = "Local PAC Server Listen Port:"; ObjectID = "IMQ-c4-gmc"; */
+"IMQ-c4-gmc.title" = "Local PAC Server Listen Port:";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "Mp8-cF-kQ7"; */
+"Mp8-cF-kQ7.label" = "General";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "Mp8-cF-kQ7"; */
+"Mp8-cF-kQ7.paletteLabel" = "General";
+
+/* Class = "NSButtonCell"; title = "Enable UDP Relay"; ObjectID = "R3v-iN-zu8"; */
+"R3v-iN-zu8.title" = "Enable UDP Relay";
+
+/* Class = "NSTextFieldCell"; title = "HTTP Proxy Listen Port:"; ObjectID = "Ww9-j9-WYR"; */
+"Ww9-j9-WYR.title" = "HTTP Proxy Listen Port:";
+
+/* Class = "NSButtonCell"; title = "Launch At Login"; ObjectID = "XJx-j4-bBr"; */
+"XJx-j4-bBr.title" = "Launch At Login";
+
+/* Class = "NSButtonCell"; title = "Auto Configure"; ObjectID = "bu3-s5-bYM"; */
+"bu3-s5-bYM.title" = "Auto Configure";
+
+/* Class = "NSButtonCell"; title = "Enable Verbose Mode"; ObjectID = "cIS-Wb-Rzg"; */
+"cIS-Wb-Rzg.title" = "Enable Verbose Mode";
+
+/* Class = "NSTabViewItem"; label = "Interfaces"; ObjectID = "eDR-CZ-P4p"; */
+"eDR-CZ-P4p.label" = "Interfaces";
+
+/* Class = "NSTextFieldCell"; title = "Local Socks5 Listen Address:"; ObjectID = "jkc-e3-4O0"; */
+"jkc-e3-4O0.title" = "Local Socks5 Listen Address:";
+
+/* Class = "NSButtonCell"; title = "HTTP Proxy Enable"; ObjectID = "jr6-x7-WJD"; */
+"jr6-x7-WJD.title" = "HTTP Proxy Enable";
+
+/* Class = "NSTabViewItem"; label = "Advance"; ObjectID = "ksf-9b-qoz"; */
+"ksf-9b-qoz.label" = "Advance";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "kuN-wm-bl5"; */
+"kuN-wm-bl5.label" = "Advanced";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "kuN-wm-bl5"; */
+"kuN-wm-bl5.paletteLabel" = "Advanced";
+
+/* Class = "NSTextFieldCell"; title = "Timeout:"; ObjectID = "sQ9-bj-V0I"; */
+"sQ9-bj-V0I.title" = "Timeout:";
+
+/* Class = "NSTextFieldCell"; title = "Which network interfaces proxy setting would be controlled by Shadowsocks"; ObjectID = "t0I-6n-gnu"; */
+"t0I-6n-gnu.title" = "Which network interfaces proxy setting would be controlled by Shadowsocks";
+
+/* Class = "NSTextFieldCell"; title = "Bypass proxy settings for these Hosts & Domains:"; ObjectID = "v4F-L4-s8U"; */
+"v4F-L4-s8U.title" = "Bypass proxy settings for these Hosts & Domains:";
+
+/* Class = "NSTextFieldCell"; title = "GFW List URL:"; ObjectID = "v7a-wf-aEm"; */
+"v7a-wf-aEm.title" = "GFW List URL:";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "xbG-eW-Prj"; */
+"xbG-eW-Prj.label" = "General";

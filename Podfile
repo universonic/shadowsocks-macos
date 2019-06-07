@@ -2,20 +2,18 @@
 # platform :ios, '9.0'
 platform :macos, '10.11'
 
-target 'ShadowsocksX-NG' do
+target 'Shadowsocks' do
   # Comment this line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for ShadowsocksX-NG
+  # Pods for Shadowsocks
   pod 'Alamofire', '~> 4.7.2'
-  pod "GCDWebServer", "~> 3.0"
+  pod 'GCDWebServer', '~> 3.0'
   pod 'MASShortcut', '~> 2'
-  
-  # https://github.com/ReactiveX/RxSwift/blob/master/Documentation/GettingStarted.md
-  pod 'RxSwift',    '~> 4.1.2'
-  pod 'RxCocoa',    '~> 4.1.2'
+  pod 'RxSwift', '~> 4.1.2'
+  pod 'RxCocoa', '~> 4.1.2'
 
-  target 'ShadowsocksX-NGTests' do
+  target 'ShadowsocksTests' do
     inherit! :search_paths
     # Pods for testing
   end
