@@ -2,5 +2,7 @@ language: objective-c
 osx_image: xcode10
 xcode_workspace: Shadowsocks.xcworkspace
 xcode_scheme: Shadowsocks
-before_install: pod install
-script: set -o pipefail && xcodebuild -workspace Shadowsocks.xcworkspace -scheme Shadowsocks CODE_SIGNING_REQUIRED=NO clean test | xcpretty
+before_install:
+  - pod install
+script:
+  - set -o pipefail && CODE_SIGNING_ALLOWED=NO xcodebuild -workspace Shadowsocks.xcworkspace -scheme Shadowsocks clean test | xcpretty
