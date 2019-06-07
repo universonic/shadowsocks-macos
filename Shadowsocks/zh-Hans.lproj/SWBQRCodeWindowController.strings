@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "Copy To Pasteboard"; ObjectID = "3q0-EO-Vug"; */
+"3q0-EO-Vug.title" = "Copy To Pasteboard";
+
+/* Class = "NSWindow"; title = "QR Code"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "QR Code";
+
+/* Class = "NSTextFieldCell"; title = "Title For Server"; ObjectID = "fHU-xF-zyc"; */
+"fHU-xF-zyc.title" = "Title For Server";
+
+/* Class = "NSMenuItem"; title = "Copy QRCode"; ObjectID = "m8q-W6-UjX"; */
+"m8q-W6-UjX.title" = "Copy QRCode";
+
+/* Class = "NSTextFieldCell"; title = "Press option/alt key to show legacy "; ObjectID = "x9U-Ti-73h"; */
+"x9U-Ti-73h.title" = "Press option/alt key to show legacy ";

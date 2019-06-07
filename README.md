@@ -1,20 +1,12 @@
-# ShadowsocksX-NG
+# Shadowsocks for macOS
 
-Current version is 1.8.2
+![GitHub release](https://img.shields.io/github/release-pre/universonic/shadowsocks-macos.svg)
+[![Build Status](https://travis-ci.org/universonic/shadowsocks-macos.svg?branch=master)](https://travis-ci.org/universonic/shadowsocks-macos)
 
-[![Build Status](https://travis-ci.org/shadowsocks/ShadowsocksX-NG.svg?branch=develop)](https://travis-ci.org/shadowsocks/ShadowsocksX-NG)
+Shadowsocks client for macOS.
 
-Next Generation of [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS)
-
-## Why a new implementation?
-
-It's hard to maintain the original implementation as there is too much unused code in it.
-It also embeds the `ss-local` source. It's crazy to maintain dependencies of `ss-local`.
-So it's hard to update the `ss-local` version.
-
-Now I just copied the `ss-local` from Homebrew. Run `ss-local` executable as a Launch Agent in the background.
-Serve PAC JS file as a file URL. So there is only some source code related to GUI left.
-Then I will rewrite the GUI code in Swift.
+This project is based on [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG), provides additional Japanese support and bug fixes.
+If you have feature request, please file an issue on original project.
 
 ## Requirements
 
@@ -29,7 +21,7 @@ Then I will rewrite the GUI code in Swift.
 
 ## Download
 
-From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
+From [here](https://github.com/universonic/shadowsocks-macos/releases/)
 
 ## Features
 
@@ -43,21 +35,6 @@ From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
 - Support for [AEAD Ciphers](https://shadowsocks.org/en/spec/AEAD-Ciphers.html)
 - HTTP Proxy by [privoxy](http://www.privoxy.org/)
 
-## Difference from original ShadowsocksX
-
-`ss-local` is run as a background service through launchd, not as an in-app process.
-So after you quit the app, the `ss-local` might be still running.
-
-Added a manual mode which won't configure the system proxy settings,
-so that you could configure your apps to use the SOCKS5 proxy manually.
-
-## Contributing
-
-Contributions must be available on a separately named branch based on the latest version of the main branch `develop`.
-
-ref: [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/)
-
 ## License
 
 The project is released under the terms of the GPLv3.
-

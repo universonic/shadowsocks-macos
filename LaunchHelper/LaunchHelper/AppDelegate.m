@@ -3,7 +3,7 @@
 //  LaunchHelper
 //
 //  Created by 邱宇舟 on 2017/3/28.
-//  Copyright © 2017年 qiuyuzhou. All rights reserved.
+//  Copyright 2019 Shadowsocks Community. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -17,13 +17,13 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
     // Insert code here to initialize your application
-    NSLog(@"ShadowsocksX-NG LaunchHelper");
+    NSLog(@"Shadowsocks LaunchHelper");
     
     NSWorkspace* ws = [NSWorkspace sharedWorkspace];
     BOOL bLaunched = NO;
-    bLaunched = [ws launchApplication: @"/Applications/ShadowsocksX-NG.app"];
+    bLaunched = [ws launchApplication: @"/Applications/Shadowsocks.app"];
     if (!bLaunched) {
-        bLaunched = [ws launchApplication: @"ShadowsocksX-NG.app"];
+        bLaunched = [ws launchApplication: @"Shadowsocks.app"];
     }
     if (!bLaunched) {
         NSArray *pathComponents = [[[NSBundle mainBundle] bundlePath] pathComponents];

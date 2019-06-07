@@ -1,0 +1,27 @@
+
+/* Class = "NSButtonCell"; title = "Save All Server URLs As File"; ObjectID = "9OS-xy-GB1"; */
+"9OS-xy-GB1.title" = "Save All Server URLs As File";
+
+/* Class = "NSTableColumn"; headerCell.title = "Server"; ObjectID = "BVB-7v-GrU"; */
+"BVB-7v-GrU.headerCell.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "EIQ-Bg-vVe"; */
+"EIQ-Bg-vVe.title" = "Table View Cell";
+
+/* Class = "NSWindow"; title = "Share Server Profiles"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Share Server Profiles";
+
+/* Class = "NSButtonCell"; title = "Save QRCode As File"; ObjectID = "IaI-Rj-Kss"; */
+"IaI-Rj-Kss.title" = "Save QRCode As File";
+
+/* Class = "NSButtonCell"; title = "Copy URL"; ObjectID = "PHX-gY-lZe"; */
+"PHX-gY-lZe.title" = "Copy URL";
+
+/* Class = "NSButtonCell"; title = "Copy QRCode"; ObjectID = "PrW-s6-Uab"; */
+"PrW-s6-Uab.title" = "Copy QRCode";
+
+/* Class = "NSButtonCell"; title = "Copy All Server URLs"; ObjectID = "Yt2-p1-4w0"; */
+"Yt2-p1-4w0.title" = "Copy All Server URLs";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Z7X-TN-APg"; */
+"Z7X-TN-APg.title" = "Text Cell";

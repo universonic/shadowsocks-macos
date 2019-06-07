@@ -16,7 +16,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**System and Shadowsocksx-NG version: (please complete the following information):**
+**System and Shadowsocks version: (please complete the following information):**
  - OS Version: [e.g. 10.13.1]
  - Version [e.g. 22]
 
@@ -24,12 +24,12 @@ If applicable, add screenshots to help explain your problem.
 
 Please upload the ss-local.log file here the file is in `~/Library/Logs`
 1) Open 'Advanced Settings -> enable Verbose Mode'
-2) Continue run `Shadowsocksx-NG` for 5 minutes
+2) Continue run `Shadowsocks` for 5 minutes
 3) Upload the `~/Library/Logs/ss-local.log` here (with or without compress)
 
 **Application log**
 
-Open the `Console.app` and search `Shadowsocksx-NG`
+Open the `Console.app` and search `Shadowsocks`
 Copy paste the log here
 
 **Crash Log**

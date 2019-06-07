@@ -1,0 +1,51 @@
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "COZ-Qr-bmU"; */
+"COZ-Qr-bmU.title" = "Text";
+
+/* Class = "NSWindow"; title = "Server Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "サーバー設定";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Gqv-5O-Wwf"; */
+"Gqv-5O-Wwf.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Ibr-Gs-5Js"; */
+"Ibr-Gs-5Js.title" = ":";
+
+/* Class = "NSTextFieldCell"; placeholderString = "IP"; ObjectID = "MWO-hQ-nMt"; */
+"MWO-hQ-nMt.placeholderString" = "IP";
+
+/* Class = "NSTextFieldCell"; title = "Remarks:"; ObjectID = "MiN-VE-FtC"; */
+"MiN-VE-FtC.title" = "備考:";
+
+/* Class = "NSTabViewItem"; label = "Insecure"; ObjectID = "SYv-Tn-tur"; */
+"SYv-Tn-tur.label" = "安全でない";
+
+/* Class = "NSTabViewItem"; label = "Secure"; ObjectID = "aRD-sh-uEl"; */
+"aRD-sh-uEl.label" = "安全";
+
+/* Class = "NSMenuItem"; title = "Clone"; ObjectID = "bl9-lq-u9V"; */
+"bl9-lq-u9V.title" = "クローン";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Port"; ObjectID = "e1F-jd-e0J"; */
+"e1F-jd-e0J.placeholderString" = "ポート";
+
+/* Class = "NSTextFieldCell"; title = "Plugin:"; ObjectID = "gDt-yZ-Mqs"; */
+"gDt-yZ-Mqs.title" = "プラグイン:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "j03-9E-uHW"; */
+"j03-9E-uHW.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "kil-xC-HPD"; */
+"kil-xC-HPD.title" = "パスワード:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption:"; ObjectID = "mOh-nD-7EX"; */
+"mOh-nD-7EX.title" = "暗号化:";
+
+/* Class = "NSTextFieldCell"; title = "Plugin Opts:"; ObjectID = "orT-7j-dxE"; */
+"orT-7j-dxE.title" = "プラグインオプション:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "yHs-XE-XEB"; */
+"yHs-XE-XEB.title" = "アドレス:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zPE-oD-PwK"; */
+"zPE-oD-PwK.title" = "OK";
