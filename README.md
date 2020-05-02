@@ -1,5 +1,7 @@
 # Shadowsocks for macOS
 
+**This project is no longer maintained. Please migrate to other projects, such as: [V2Ray](https://github.com/v2ray)**
+
 ![GitHub release](https://img.shields.io/github/release-pre/universonic/shadowsocks-macos.svg)
 [![Build Status](https://travis-ci.org/universonic/shadowsocks-macos.svg?branch=master)](https://travis-ci.org/universonic/shadowsocks-macos)
 
